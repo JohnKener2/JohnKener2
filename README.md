@@ -1,9 +1,8 @@
-## HI THIS IS MY GITHUB ACCOUNT
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+## HI THIS IS MY GITHUB ACCOUNT<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 
 <img src="https://github.com/JohnKener2/JohnKener2/blob/main/124-1249660_knight-warrior-vector-clipart-png-download-knight-warrior%20(1).png" width="300%">
- <p align="center">
-<div align="center">
+<p align="center">
+
 <div align="center">
 
 <img align="centre" src="https://raw.githubusercontent.com/john-kener/John-kener/main/Developer.gif"/>
@@ -65,6 +64,6 @@
 </br>
 
 ### Giving Some Stars to my repositories will be appriciated !
-<body align ="left">
-<h6>SL CYBER WARRIORS™ <br>README BY Readme-Gen Tool <br> README BASE COPYRIGHTS RESERVED BY JOHN-KENER 2021© <br>
-</body>
+
+<h6 align ="left" >SL CYBER WARRIORS™ <br>README BY Readme-Gen Tool <br> README BASE COPYRIGHTS RESERVED BY JOHN-KENER 2021© <br>
+
