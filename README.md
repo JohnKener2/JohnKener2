@@ -62,12 +62,9 @@
 
 </br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-</br>     
+</br>
 
-		    ### Giving Some Stars to my repositories will be appriciated !
-		    
-		    ##### SL CYBER WARRIORS™
-		
-		    ##### README BY Readme-Gen Tool
-		
-		    ##### README BASE COPYRIGHTS RESERVED BY JOHN-KENER 2021©
+### Giving Some Stars to my repositories will be appriciated !
+<p align ="left">
+<h6>SL CYBER WARRIORS™ <br>README BY Readme-Gen Tool <br> README BASE COPYRIGHTS RESERVED BY JOHN-KENER 2021© <br>
+</p>
