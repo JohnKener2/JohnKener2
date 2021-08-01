@@ -65,6 +65,6 @@
 </br>
 
 ### Giving Some Stars to my repositories will be appriciated !
-<p align ="left">
+<body align ="left">
 <h6>SL CYBER WARRIORS™ <br>README BY Readme-Gen Tool <br> README BASE COPYRIGHTS RESERVED BY JOHN-KENER 2021© <br>
-</p>
+</body>
